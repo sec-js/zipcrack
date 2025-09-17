@@ -24,9 +24,7 @@ https://www.youtube.com/watch?v=miEcCCVI4eM
      1) Dictionary Attack
         a) Your Own Custom Wordlist is required.
         
-     2) More Features Will Be Added IA:)
         
-# Contact:
-    Telegram:- https://t.me/machine1337
+
 
          
